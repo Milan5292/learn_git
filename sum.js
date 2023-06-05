@@ -10,7 +10,7 @@
 
     var z = d + j;
 
-    document.write(z);
+    document.write("sum of two number is :" + z);
 
 </script>
 </head>
